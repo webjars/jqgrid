@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jqgrid</artifactId>
-    <version>4.6.0-SNAPSHOT</version>
+    <version>4.6.0</version>
     <name>jqGrid</name>
     <description>WebJar for jqGrid</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/jqgrid</url>
         <connection>scm:git:https://github.com/webjars/jqgrid.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jqgrid.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jqgrid-4.6.0</tag>
     </scm>
     
     <dependencies>
